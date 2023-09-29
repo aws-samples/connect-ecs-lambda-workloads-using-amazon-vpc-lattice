@@ -1,4 +1,4 @@
-# Welcome to `Seamlessely connect your Amazon ECS and AWS Lambda workloads using Amazon VPC Lattice` Blog
+# Welcome to `Build secure application networks with Amazon VPC Lattice, Amazon ECS, and AWS Lambda` Blog
 
 This project consists of sample code to seamlessely connect Amazon ECS and AWS Lambda workloads using Amazon VPC Lattice.
 
